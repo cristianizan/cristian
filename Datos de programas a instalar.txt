@@ -1,0 +1,56 @@
+Instalar
+visual basic 10----
+visual basic 6.0---
+fireworks 8-------
+dreamweaber 8-----
+notepad++
+filezilla
+php
+enterprise architect
+
+virtualbox
+webcam companion 4
+
+teamviewer 9
+skype
+snagit-----------
+
+nero
+ultra iso--------
+winrar-----------
+dvd shink--------
+mipony-----------
+jodowloader------
+
+popcorn----------	
+powerdvd10-------
+klcodec475f------
+vlc
+aimp3
+
+formatfactory----
+
+buscar 
+beini
+
+datos
+-local host
+appserverv 2.6.0 
+poner localhost
+para ver archivos localhost/curso/nombredelarchivo.php
+usuario: root
+contraseña: 31284765
+
+-ADO significa ActiveX Data Objects . Es un camino por el cual la aplicación puede acceder a los datos que reside en una base de datos . 
+Aquí la base de datos es un término general; que incluye una gran variedad de bases de datos específicas - excel hojas , archivos de texto , 
+SQL Server , base de datos Jet , etc. En la terminología orientada a objetos , ADO es simplemente un modelo de objetos que nos permite interactuar
+ con una base de datos para que podamos buscar, añadir o modificar datos . En el nivel superior tenemos un objeto Connection . Este objeto nos permite
+ establecer una conexión con una base de datos . La mejor parte que realmente no tiene que preocuparse por los detalles acerca de la base de datos subyacente. 
+ADO es compatible con una gran colección de bases de datos como se mencionó anteriormente . En el nivel siguiente viene el objeto Command y el objeto Recordset . 
+El objeto Command de ADO se utiliza para ejecutar consultas contra una base de datos. Si va a recuperar información de una base de datos que tiene que guardarlo 
+en un objeto Recordset . Supongo que esto va a hacer por la breve introducción para ADO
+ADO en Visual Basic
+
+Tenemos que incluir una referencia a una biblioteca de ADO en nuestro proyecto . Para este ejercicio , no importa qué biblioteca se utiliza , sin embargo , 
+por el bien de mencionar que he utilizado el ActiveX Data Objects 2.8 Library. Así que empieza un nuevo proyecto EXE estándar . Seleccione el elemento de Referencias 
+en el menú Proyecto y seleccione la dll necesario. (Se muestra como Microsoft ActiveX Data Objects 2.8 Library) . 
